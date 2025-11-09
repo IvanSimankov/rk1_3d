@@ -261,4 +261,4 @@ ___
 
 ## Результат
 
-![result.jpg](result.jpg)
+![result.png](result.png)
